@@ -36,3 +36,33 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilwarrior05&show_icons=true&locale=en" alt="sunilwarrior05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilwarrior05&" alt="sunilwarrior05" /></p>
+
+# 👨‍💼 Work Samples / Repository / Website
+You can find some of my work samples on my portfolio website.
+<br/>
+[www.sunilyadav.in](https://sunilyadav.in)
+
+
+# 📧 Contact Me
+Feel free to reach out to me at sunilwarrior05@gmail.com or connect with me on LinkedIn.com.
+
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sunilwarrior05/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+      </div>
+
+</p>
+
+
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
+  <img src="#">
+  </p>
+  
+  ![](https://komarev.com/ghpvc/?username=sunilyadav&color=ff69b4&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No.)
+
