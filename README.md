@@ -13,20 +13,19 @@
 
 - 🌱 I’m currently learning **Mendix & Innoveo**
 
-- 👯 I’m looking to collaborate on **Zurich projects**
-
-- 🤝 I’m looking for help with **Tata Consultancy Services**
-
 - 👨‍💻 All of my projects are available at [https://github.com/sunilwarrior05/](https://github.com/sunilwarrior05/)
 
 - 💬 Ask me about **Mendix, Innoveo,GitHub, Jira, Angular, SASS, CSS3, HTML5, Bootstrap, JavaScript**
 
 - 📫 How to reach me **sunilwarrior05@gmail.com**
 
+- ⚡ Fun fact **I am funny😅**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sunilwarrior05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunilwarrior05" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sunilwarrior05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunilwarrior05" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sunilwarrior05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sunilwarrior05" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,12 +38,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilwarrior05&" alt="sunilwarrior05" /></p>
 
 # 👨‍💼 Work Samples / Repository / Website
+
 You can find some of my work samples on my portfolio website.
 <br/>
 [www.sunilyadav.in](https://sunilyadav.in)
 
-
 # 📧 Contact Me
+
 Feel free to reach out to me at sunilwarrior05@gmail.com or connect with me on LinkedIn.com.
 
 <br/>
@@ -55,10 +55,11 @@ Feel free to reach out to me at sunilwarrior05@gmail.com or connect with me on L
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sunilwarrior05/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+            <a style="margin-left: 10px;"  target="_blank" href="https://www.youtube.com/c/sunilwarrior05">
+                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"></a>
       </div>
 
 </p>
-
 
  <p align="center">
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
@@ -66,4 +67,3 @@ Feel free to reach out to me at sunilwarrior05@gmail.com or connect with me on L
   </p>
   
   ![](https://komarev.com/ghpvc/?username=sunilyadav&color=ff69b4&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No.)
-
