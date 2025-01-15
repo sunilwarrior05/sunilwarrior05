@@ -1,10 +1,3 @@
-<style>
-	.markdown-heading {
-	display: flex;
-    align-items: center;
-    justify-content: center;
-	}
-</style>
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="210"/>
 </p>
@@ -55,8 +48,9 @@ You can find some of my work samples on my portfolio website.
 Feel free to reach out to me at sunilwarrior05@gmail.com or connect with me on LinkedIn.com.
 
 <br/>
+<p align="center">
 <h3 align="center" style="width: fit-content;"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
+</p>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
