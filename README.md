@@ -54,7 +54,7 @@ Feel free to reach out to me at sunilwarrior05@gmail.com or connect with me on L
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sunilwarrior05/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-            <a style="margin-left: 10px;"  target="_blank" href="https://www.youtube.com/c/sunilwarrior05">
+            <a style="margin-left: 10px;"  target="_blank" href="https://www.youtube.com/@sunilwarrior05">
                 <img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png"></a>
       </div>
 
