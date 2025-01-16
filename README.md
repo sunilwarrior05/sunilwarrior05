@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="210"/>
+  <img src="https://raw.githubusercontent.com/sunilwarrior05/sunilwarrior05/main/images/cover-banner.png" height="210"/>
 </p>
 <h1 align="center">Hi 👋, I'm Sunil Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/sunilwarrior05/sunilwarrior05/main/images/sunilyadav.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilwarrior05&label=Profile%20views&color=0e75b6&style=flat" alt="sunilwarrior05" /> </p>
 
@@ -63,7 +63,7 @@ Feel free to reach out to me at sunilwarrior05@gmail.com or connect with me on L
 </p>
 
  <p align="center">
-  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
+  <img src="https://raw.githubusercontent.com/sunilwarrior05/sunilwarrior05/main/images/footer_banner.png">
   <img src="#">
   </p>
 
