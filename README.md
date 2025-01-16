@@ -35,8 +35,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilwarrior05&show_icons=true&locale=en" alt="sunilwarrior05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilwarrior05&" alt="sunilwarrior05" /></p>
-
 # 👨‍💼 Work Samples / Repository / Website
 
 You can find some of my work samples on my portfolio website.
